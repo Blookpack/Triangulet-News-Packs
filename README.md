@@ -1,4 +1,4 @@
 # Triangulet-News-Packs
-Screenshot 2023-05-06 9.28.10 AM.png
+https://github.com/Blookpack/Triangulet-News-Packs/blob/main/Screenshot%202023-05-06%209.28.10%20AM.png
 Triangulet is a new Blooket private server
 with cool features!
